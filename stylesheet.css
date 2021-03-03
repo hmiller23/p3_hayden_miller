@@ -7,14 +7,14 @@ h2 {
   display: block;
   padding: 12px;
   text-align: center;
-  background-color: rgb(31, 166, 269);
+  background-color: lightblue;
   font-family: arial;
   font-size: 125%;
 }
 h3 {
   text-align: left;
   font-family: arial;
-  font-size: 125%;
+  font-size: 105%;
 }
 body {
   text-align: left;
